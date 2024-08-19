@@ -62,6 +62,7 @@ const config = {
           {to: '/lectures', label: 'Lectures', position: 'left'},
           {to: 'https://piazza.com/class/lz80ucdscem787', label: 'Piazza', position: 'left'},
           // {to: '/projects', label: 'Project Gallery', position: 'left'},
+          {to: '/previous', label: 'Previous Offerings', position: 'left'},
         ],
       },
       footer: {
