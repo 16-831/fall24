@@ -25,11 +25,11 @@ Lecture slides are posted here and on [Piazza](https://piazza.com/cmu/fall2024/1
 | 10/15 | Fall Break | | | ⛱️ |
 | 10/17 | Fall Break | | | ⛱️ |
 | 10/22 | Lecture 15: Deep Model-Based RL | [[Dreamer](https://arxiv.org/pdf/1912.01603.pdf)][[TD-MPC](https://nicklashansen.github.io/td-mpc/)] | | 🔵 Model-Based RL |
-| 10/24 | Lecture 16: Offline RL | [[NeurIPS Tutorial](https://sites.google.com/view/offlinerltutorial-neurips2020/home)][[IQL](https://arxiv.org/abs/2110.06169)][[Diffuser](https://arxiv.org/abs/2205.09991)] | | ⚪ RL from Offline Data |
-| 10/29 | Lecture 17: Inverse RL | [[Maximum Entropy IRL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf)][[LP-IRL](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf)] | HW3 Due; HW4 Out | ⚪ RL from Offline Data |
-| 10/31 | Lecture 18: Bandits and Preference-Based Learning | [[RL Textbook, Ch 2](http://incompleteideas.net/book/RLbook2018.pdf)][[Dueling Bandits](https://www.cs.cornell.edu/people/tj/publications/yue_etal_09a.pdf)] | | 🟡 Bandits and Exploration |
+| 10/24 | Lecture 16: Bandits and Preference-Based Learning | [[RL Textbook, Ch 2](http://incompleteideas.net/book/RLbook2018.pdf)][[Dueling Bandits](https://www.cs.cornell.edu/people/tj/publications/yue_etal_09a.pdf)] | | 🟡 Bandits and Exploration |
+| 10/29 | Lecture 17: Exploration | [[Curiosity](https://arxiv.org/pdf/1705.05363.pdf)][[RND](https://arxiv.org/pdf/1810.12894.pdf)] | HW3 Due; HW4 Out | 🟡 Bandits and Exploration |
+| 10/31 | Lecture 18: Guest Lecture: Offline RL ([Aviral Kumar](https://aviralkumar2907.github.io/)) | [[NeurIPS Tutorial](https://sites.google.com/view/offlinerltutorial-neurips2020/home)][[IQL](https://arxiv.org/abs/2110.06169)][[Diffuser](https://arxiv.org/abs/2205.09991)] | | ⚪ RL from Offline Data |
 | 11/05 | Democracy Day | | | 🗳 |
-| 11/07 | Lecture 19: Exploration | [[Curiosity](https://arxiv.org/pdf/1705.05363.pdf)][[RND](https://arxiv.org/pdf/1810.12894.pdf)] | | 🟡 Bandits and Exploration |
+| 11/07 | Lecture 19: Inverse RL | [[Maximum Entropy IRL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf)][[LP-IRL](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf)] | | ⚪ RL from Offline Data |
 | 11/12 | Lecture 20: Robot Simulation and Sim2Real | [[Domain Randomization](https://arxiv.org/abs/1703.06907)][[Champion-Level Drone Racing](https://www.nature.com/articles/s41586-023-06419-4)] | | 🟤 Specialized Topics |
 | 11/14 | Lecture 21: Safe RL and Safe Robot Learning | [[Safe Robot Learning Survey](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-042920-020211)][[Data-Driven Safety Filters](https://ieeexplore.ieee.org/abstract/document/10266799)] | HW4 Due | 🟤 Specialized Topics |
 | 11/19 | Lecture 22: Guest Lecture: Foundation Models in Robotics ([Yonatan Bisk](https://talkingtorobots.com/yonatanbisk.html)) | [[Survey](https://github.com/JeffreyYH/robotics-fm-survey)][[SayCan](https://arxiv.org/abs/2204.01691)][[CLIPort](https://arxiv.org/abs/2109.12098)][[RT-1](https://arxiv.org/abs/2212.06817)][[Code as Policies](https://arxiv.org/abs/2209.07753)] | | 🟤 Specialized Topics |
