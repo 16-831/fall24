@@ -1,3 +1,41 @@
 ---
 title: Lectures
 ---
+
+## Course Schedule
+
+Lecture slides are posted here and on [Piazza](https://piazza.com/cmu/fall2024/16831/resources). All due dates are at 11:59 PM ET.
+
+| Date | Lecture | Optional Readings | Logistics | Topic Groups |
+|---|---|---|---|---|
+| 08/27 | Lecture 1: Course Introduction: What is Robot Learning? | [[Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289)] | | 🔴 Introduction |                         
+| 08/29 | Lecture 2: Robot Learning: An Overview | [[RL Textbook, Ch 1](http://incompleteideas.net/book/RLbook2018.pdf)] | | 🔴 Introduction |
+| 09/03 | Lecture 3: ML/DL Refresher Part 1 | [[DL Textbook, Ch 5-10](https://www.deeplearningbook.org/)] | HW1 Out | 🟠 ML/DL Refresher |
+| 09/05 | Lecture 4: ML/DL Refresher Part 2 | [[DL Textbook, Ch 5-10](https://www.deeplearningbook.org/)] | | 🟠 ML/DL Refresher |
+| 09/10 | Lecture 5: MDP Basics and Imitation Learning Part 1 | [[ICML Tutorial](https://sites.google.com/view/icml2018-imitation-learning/)][[An Invitation to Imitation](https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf)] | | 🟣 Imitation Learning |
+| 09/12 | Lecture 6: Imitation Learning Part 2 | [[DAgger](https://arxiv.org/pdf/1011.0686.pdf)][[GAIL](https://arxiv.org/pdf/1606.03476.pdf)][[Diffusion Policy](https://diffusion-policy.cs.columbia.edu/)][[Transporter](https://arxiv.org/abs/2010.14406)] | | 🟣 Imitation Learning |
+| 09/17 | Lecture 7: RL Basics: Value/Policy Iteration | [[RL Textbook, Ch 3-4](http://incompleteideas.net/book/RLbook2018.pdf)][[Key Concepts in RL](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)][[Kinds of RL Algorithms](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html)] | | 🟢 Model-Free RL |
+| 09/19 | Lecture 8: Q-Learning and Variants | [[RL Textbook, Ch 5-7](http://incompleteideas.net/book/RLbook2018.pdf)][[DQN](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)] | HW1 Due; HW2 Out | 🟢 Model-Free RL |
+| 09/24 | Lecture 9: Policy Gradient Methods | [[RL Textbook, Ch 13](http://incompleteideas.net/book/RLbook2018.pdf)][[Intro to Policy Gradient](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html)] | | 🟢 Model-Free RL |
+| 09/26 | Lecture 10: Actor-Critic Methods | [[RL Textbook, Ch 13](http://incompleteideas.net/book/RLbook2018.pdf)] | | 🟢 Model-Free RL |
+| 10/01 | Lecture 11: Advanced RL Algorithms | [[PPO](https://arxiv.org/pdf/1707.06347)][[TRPO](https://arxiv.org/pdf/1502.05477.pdf)][[DDPG](https://arxiv.org/pdf/1509.02971.pdf)][[SAC](https://arxiv.org/abs/1801.01290)] | | 🟢 Model-Free RL |
+| 10/03 | Lecture 12: Model-Based Control Basics | [[Feedback Systems Textbook](https://fbswiki.org/wiki/index.php/Feedback_Systems:_An_Introduction_for_Scientists_and_Engineers)] | HW2 Due; HW3 Out | 🔵 Model-Based RL |
+| 10/08 | Lecture 13: Optimal Control and Planning Part 1 | [[Murray's Notes](https://fbswiki.org/wiki/index.php/Supplement:_Optimization-Based_Control)][[iLQR](https://www.scitepress.org/PublishedPapers/2004/11439/pdf/index.html)][[DDP](https://ieeexplore.ieee.org/abstract/document/6386025)][[SCP](https://arc.aiaa.org/doi/epdf/10.2514/1.G000218)] | | 🔵 Model-Based RL |
+| 10/10 | Lecture 14: Optimal Control and Planning Part 2 | [[PETS](https://arxiv.org/abs/1805.12114)][[Neural-Control Family](https://www.gshi.me/blog/NeuralControl/)][[MPPI](https://homes.cs.washington.edu/~bboots/files/InformationTheoreticMPC.pdf)][[PILCO](https://www.cs.utexas.edu/users/sniekum/classes/RLFD-F15/papers/Deisenroth11.pdf)][[MBPO](https://arxiv.org/pdf/1906.08253.pdf)] | Project Proposal Due | 🔵 Model-Based RL |
+| 10/15 | Fall Break | | | ⛱️ |
+| 10/17 | Fall Break | | | ⛱️ |
+| 10/22 | Lecture 15: Deep Model-Based RL | [[Dreamer](https://arxiv.org/pdf/1912.01603.pdf)][[TD-MPC](https://nicklashansen.github.io/td-mpc/)] | | 🔵 Model-Based RL |
+| 10/24 | Lecture 16: Offline RL | [[NeurIPS Tutorial](https://sites.google.com/view/offlinerltutorial-neurips2020/home)][[IQL](https://arxiv.org/abs/2110.06169)][[Diffuser](https://arxiv.org/abs/2205.09991)] | | ⚪ RL from Offline Data |
+| 10/29 | Lecture 17: Inverse RL | [[Maximum Entropy IRL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf)][[LP-IRL](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf)] | HW3 Due; HW4 Out | ⚪ RL from Offline Data |
+| 10/31 | Lecture 18: Bandits and Preference-Based Learning | [[RL Textbook, Ch 2](http://incompleteideas.net/book/RLbook2018.pdf)][[Dueling Bandits](https://www.cs.cornell.edu/people/tj/publications/yue_etal_09a.pdf)] | | 🟡 Bandits and Exploration |
+| 11/05 | Democracy Day | | | 🗳 |
+| 11/07 | Lecture 19: Exploration | [[Curiosity](https://arxiv.org/pdf/1705.05363.pdf)][[RND](https://arxiv.org/pdf/1810.12894.pdf)] | | 🟡 Bandits and Exploration |
+| 11/12 | Lecture 20: Robot Simulation and Sim2Real | [[Domain Randomization](https://arxiv.org/abs/1703.06907)][[Champion-Level Drone Racing](https://www.nature.com/articles/s41586-023-06419-4)] | | 🟤 Specialized Topics |
+| 11/14 | Lecture 21: Safe RL and Safe Robot Learning | [[Safe Robot Learning Survey](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-042920-020211)][[Data-Driven Safety Filters](https://ieeexplore.ieee.org/abstract/document/10266799)] | HW4 Due | 🟤 Specialized Topics |
+| 11/19 | Lecture 22: Guest Lecture: Foundation Models in Robotics ([Yonatan Bisk]([https://jeffreyyh.github.io/](https://talkingtorobots.com/yonatanbisk.html))) | [[Survey](https://github.com/JeffreyYH/robotics-fm-survey)][[SayCan](https://arxiv.org/abs/2204.01691)][[CLIPort](https://arxiv.org/abs/2109.12098)][[RT-1](https://arxiv.org/abs/2212.06817)][[Code as Policies](https://arxiv.org/abs/2209.07753)] | | 🟤 Specialized Topics |
+| 11/21 | Lecture 23: Multi-Task/Adaptable/Transferable Robot Learning | [[Teacher-Student](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/448343/1/2020_science_robotics_lee_locomotion.pdf)][[RMA](https://arxiv.org/abs/2107.04034)][[Neural-Fly](https://arxiv.org/abs/2205.06908)] | | 🟤 Specialized Topics |
+| 11/26 | Lecture 24: Course Summary | | | ⚫ Project |
+| 11/28 | Thanksgiving | | | 🦃️ |
+| 12/03 | Lecture 25: Student Project Presentations | | | ⚫ Project |
+| 12/05 | Lecture 26: Student Project Presentations | | | ⚫ Project |
+| 12/13 | | | Project Report Due | ✨ |
