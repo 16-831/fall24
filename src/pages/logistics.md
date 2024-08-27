@@ -4,7 +4,7 @@ title: Course logistics
 
 ## Class Time and Location
 
-**Time**: Tuesday/Thursday 12:30pm-1:50m
+**Time**: Tuesday/Thursday 12:30 PM - 1:50 PM
 
 **Location**: DH A302
 
@@ -15,12 +15,12 @@ title: Course logistics
 
 |         |  Office Hours    |
 | ------------- | :-----------: |
-| Guanya Shi     | TBD | 
-| Eliot Xing     | TBD |
-| Yufei Wang    | TBD |
-| Tairan He | TBD |
-| Yilin Wu | TBD |
-| Bowen Li | TBD |
+| Guanya Shi     | Tue 11:00 - 11:45 AM, NSH 3209 | 
+| Eliot Xing     | Fri 11:30 AM - 12:15 PM |
+| Yufei Wang    | Fri 2:15 - 3 PM, NSH 4126 |
+| Tairan He | Fri 2:00 - 2:45 PM, NSH 3208 |
+| Yilin Wu | Tue 2:00 - 2:45 PM, NSH 3104 |
+| Bowen Li | Thu 11:15 AM - 12:00 PM, NSH 1505 |
 
 <!-- ### Class Forum
 
