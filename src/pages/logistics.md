@@ -15,12 +15,12 @@ title: Course logistics
 
 |         |  Office Hours    |
 | ------------- | :-----------: |
-| Guanya Shi     | Tue 11:00 - 11:45 AM, NSH 3209 | 
-| Eliot Xing     | Fri 11:30 AM - 12:15 PM |
-| Yufei Wang    | Fri 2:15 - 3 PM, NSH 4126 |
-| Tairan He | Fri 2:00 - 2:45 PM, NSH 3208 |
-| Yilin Wu | Tue 2:00 - 2:45 PM, NSH 3104 |
-| Bowen Li | Thu 11:15 AM - 12:00 PM, NSH 1505 |
+| Guanya Shi    | Tue 11:00 - 11:45 AM, NSH 3209 |
+| Yilin Wu      | Tue 2:00 - 2:45 PM, NSH 3104 |
+| Yufei Wang    | Wed 3:15 - 4:00 PM, NSH 4126 |
+| Bowen Li      | Thu 11:15 AM - 12:00 PM, NSH 1505 |
+| Eliot Xing    | Fri 11:30 AM - 12:15 PM, Wean 1319 |
+| Tairan He     | Fri 2:00 - 2:45 PM, NSH 3208 |
 
 <!-- ### Class Forum
 
