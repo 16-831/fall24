@@ -9,7 +9,7 @@ Lecture slides are posted here and on [Piazza](https://piazza.com/cmu/fall2024/1
 | Date | Lecture | Optional Readings | Logistics | Topic Groups |
 |---|---|---|---|---|
 | 08/27 | Lecture 1: Course Introduction: What is Robot Learning? [[Slides](https://drive.google.com/file/d/1fiHlL4nSAZq1AhMkNOZnqTc6F61tX1kl/view?usp=sharing)] | [[Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289)] | | 🔴 Introduction |                         
-| 08/29 | Lecture 2: Robot Learning: An Overview | [[RL Textbook, Ch 1](http://incompleteideas.net/book/RLbook2018.pdf)] | | 🔴 Introduction |
+| 08/29 | Lecture 2: Robot Learning: An Overview [[Slides](https://drive.google.com/file/d/13iuX8bLMCrFk1gXwl7-8BJj7Zb_JmLtS/view?usp=sharing)] | [[RL Textbook, Ch 1](http://incompleteideas.net/book/RLbook2018.pdf)] | | 🔴 Introduction |
 | 09/03 | Lecture 3: ML/DL Refresher Part 1 | [[DL Textbook, Ch 5-10](https://www.deeplearningbook.org/)] | HW1 Out | 🟠 ML/DL Refresher |
 | 09/05 | Lecture 4: ML/DL Refresher Part 2 | [[DL Textbook, Ch 5-10](https://www.deeplearningbook.org/)] | | 🟠 ML/DL Refresher |
 | 09/10 | Lecture 5: MDP Basics and Imitation Learning Part 1 | [[ICML Tutorial](https://sites.google.com/view/icml2018-imitation-learning/)][[An Invitation to Imitation](https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf)] | | 🟣 Imitation Learning |
