@@ -26,8 +26,8 @@ Lecture slides are posted here and on [Piazza](https://piazza.com/cmu/fall2024/1
 | 10/17 | Fall Break | | | ⛱️ |
 | 10/22 | Lecture 15: Deep Model-Based RL | [[Dreamer](https://arxiv.org/pdf/1912.01603.pdf)][[TD-MPC](https://nicklashansen.github.io/td-mpc/)] | | 🔵 Model-Based RL |
 | 10/24 | Lecture 16: Bandits and Preference-Based Learning | [[RL Textbook, Ch 2](http://incompleteideas.net/book/RLbook2018.pdf)][[Dueling Bandits](https://www.cs.cornell.edu/people/tj/publications/yue_etal_09a.pdf)] | | 🟡 Bandits and Exploration |
-| 10/29 | Lecture 17: Exploration | [[Curiosity](https://arxiv.org/pdf/1705.05363.pdf)][[RND](https://arxiv.org/pdf/1810.12894.pdf)] | HW3 Due; HW4 Out | 🟡 Bandits and Exploration |
-| 10/31 | Lecture 18: Guest Lecture: Offline RL ([Aviral Kumar](https://aviralkumar2907.github.io/)) | [[NeurIPS Tutorial](https://sites.google.com/view/offlinerltutorial-neurips2020/home)][[IQL](https://arxiv.org/abs/2110.06169)][[Diffuser](https://arxiv.org/abs/2205.09991)] | | ⚪ RL from Offline Data |
+| 10/29 | Lecture 17: Exploration | [[Curiosity](https://arxiv.org/pdf/1705.05363.pdf)][[RND](https://arxiv.org/pdf/1810.12894.pdf)] | HW4 Out | 🟡 Bandits and Exploration |
+| 10/31 | Lecture 18: Guest Lecture: Offline RL ([Aviral Kumar](https://aviralkumar2907.github.io/)) | [[NeurIPS Tutorial](https://sites.google.com/view/offlinerltutorial-neurips2020/home)][[IQL](https://arxiv.org/abs/2110.06169)][[Diffuser](https://arxiv.org/abs/2205.09991)] | HW3 Due | ⚪ RL from Offline Data |
 | 11/05 | Democracy Day | | | 🗳 |
 | 11/07 | Lecture 19: Inverse RL | [[Maximum Entropy IRL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf)][[LP-IRL](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf)] | | ⚪ RL from Offline Data |
 | 11/12 | Lecture 20: Robot Simulation and Sim2Real | [[Domain Randomization](https://arxiv.org/abs/1703.06907)][[Champion-Level Drone Racing](https://www.nature.com/articles/s41586-023-06419-4)] | | 🟤 Specialized Topics |
