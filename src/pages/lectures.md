@@ -34,7 +34,7 @@ Lecture slides are posted here and on [Piazza](https://piazza.com/cmu/fall2024/1
 | 11/14 | Lecture 21: Safe RL and Safe Robot Learning [[slides](https://drive.google.com/file/d/1PiG3kz6c2SdSnNSrJm5LNCuE-0jZmMSf/view?usp=sharing)] | [[Safe Robot Learning Survey](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-042920-020211)][[Data-Driven Safety Filters](https://ieeexplore.ieee.org/abstract/document/10266799)] | HW4 Due | 🟤 Specialized Topics |
 | 11/19 | Lecture 22: Guest Lecture: Foundation Models in Robotics ([Yonatan Bisk](https://talkingtorobots.com/yonatanbisk.html)) | [[Survey](https://github.com/JeffreyYH/robotics-fm-survey)][[SayCan](https://arxiv.org/abs/2204.01691)][[CLIPort](https://arxiv.org/abs/2109.12098)][[RT-1](https://arxiv.org/abs/2212.06817)][[Code as Policies](https://arxiv.org/abs/2209.07753)] | | 🟤 Specialized Topics |
 | 11/21 | Lecture 23: Multi-Task/Adaptable/Transferable Robot Learning [[slides](https://drive.google.com/file/d/1H64o2Rs3ebJIf_D6u5xWxswfYB-WA_C3/view?usp=sharing)]| [[Teacher-Student](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/448343/1/2020_science_robotics_lee_locomotion.pdf)][[RMA](https://arxiv.org/abs/2107.04034)][[Neural-Fly](https://arxiv.org/abs/2205.06908)] | | 🟤 Specialized Topics |
-| 11/26 | Lecture 24: Course Summary | | | ⚫ Project |
+| 11/26 | Lecture 24: Course Summary [[slides](https://drive.google.com/file/d/1fV9VfF-QULhtwKZ0rPPYfZHHcEvtQScL/view?usp=sharing)] | | | ⚫ Project |
 | 11/28 | Thanksgiving | | | 🦃️ |
 | 12/03 | Lecture 25: Student Project Presentations | | | ⚫ Project |
 | 12/05 | Lecture 26: Student Project Presentations | | | ⚫ Project |
